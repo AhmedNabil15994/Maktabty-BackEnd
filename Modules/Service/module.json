@@ -1,0 +1,15 @@
+{
+    "name": "Service",
+    "alias": "Service",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Service\\Providers\\ServiceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}
